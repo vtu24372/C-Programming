@@ -13,6 +13,6 @@ int main(){
 	
 	printf("%d" " %s\n",p1.id,p1.name);
 	printf("%d " "%s\n",p2.id,p2.name);
-	printf("%d %s\n",p3.id,p3.name);
+	printf("%d " "%s\n",p3.id,p3.name);
 	return 0;
 }
